@@ -1,0 +1,25 @@
+[
+    {
+        "versionName":"2.5.1","versionCode":43,"date":1562529600000,
+        "changes":[
+            {"type":"info", "text":"Minimum requirement is now Android Jelly Bean 4.3"}
+        ]
+    },{
+        "versionName":"2.4.3","versionCode":38,"date":1556125061142,
+        "changes":[
+            {"type":"fixed", "text":"Fixed crash for ringtone picker dialog"}
+        ]
+    },{
+        "versionName":"2.4.1","versionCode":36,"date":1553879007636,
+        "changes":[
+            {"type":"fixed", "text":"Fixed crash when installing app via P2P on Lollipop devices and higher"},
+            {"type":"fixed", "text":"Fixed sound notification for connectivity changes does not triggered properly"}
+        ]
+    },{
+        "versionName":"2.4.0","versionCode":35,"date":1552210766415,
+        "changes":[
+            {"type":"feature", "text":"You can purchase pro version now"},
+            {"type":"fixed", "text":"Fixed bugs on Oreo devices"}
+        ]
+    }
+]

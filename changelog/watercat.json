@@ -1,0 +1,99 @@
+[
+    {
+        "versionName":"1.1.11",
+        "versionCode":27,
+        "date":1561035221878,
+        "changes":[
+            {"type":"feature","text":"Added fingerprint authentication"}
+        ]
+    },{
+        "versionName":"1.1.9",
+        "versionCode":25,
+        "date":1560454677546,
+        "changes":[
+            {"type":"feature","text":"Added dark theme"},
+            {"type":"fixed","text":"Fixed bugs"}
+        ]
+    },{
+        "versionName":"1.1.8",
+        "versionCode":24,
+        "date":1559932765278,
+        "changes":[
+            {"type":"feature","text":"Added space allocator"},
+            {"type":"fixed","text":"Fixed bugs and performance improvements"}
+        ]
+    },{
+        "versionName":"1.1.6",
+        "versionCode":22,
+        "date":1558287876247,
+        "changes":[
+            {"type":"fixed","text":"Fixed bugs"}
+        ]
+    },{
+        "versionName":"1.1.4",
+        "versionCode":20,
+        "date":1557675213944,
+        "changes":[
+            {"type":"feature","text":"Added speed limiter"},
+            {"type":"fixed","text":"Fixed bugs and performance improvements"}
+        ]
+    },{
+        "versionName":"1.1.3",
+        "versionCode":19,
+        "date":1554974760855,
+        "changes":[
+            {"type":"fixed","text":"Fixed bugs"}
+        ]
+    },{
+        "versionName":"1.1.2",
+        "versionCode":17,
+        "date":1554905504301,
+        "changes":[
+            {"type":"fixed","text":"Fixed error download from Google Drive"},
+            {"type":"fixed","text":"Fixed some bugs"}
+        ]
+    },{
+        "versionName":"1.1.1",
+        "versionCode":16,
+        "date":1554484037862,
+        "changes":[
+            {"type":"feature","text":"Supported Firefox Lite"},
+            {"type":"fixed","text":"Fixed bugs"}
+        ]
+    },{
+        "versionName":"1.1.0",
+        "versionCode":15,
+        "date":1554318247856,
+        "changes":[
+            {"type":"feature","text":"Added support for Google Drive downloads."}
+        ]
+    },{
+        "versionName":"1.0.8",
+        "versionCode":14,
+        "date":1553782061111,
+        "changes":[
+            {"type":"feature","text":"Open in Firefox & Chrome"},
+            {"type":"fixed","text":"Crash when starting downloads on some devices"},
+            {"type":"fixed","text":"Quota limiter not updated in Settings"},
+            {"type":"fixed","text":"Cannot cancel downloads in rebuilding state."},
+            {"type":"fixed","text":"Fixed minor bugs"}
+        ]
+    },{
+        "versionName":"1.0.6",
+        "versionCode":11,
+        "date":1553072781089,
+        "changes":[
+            {"type":"fixed","text":"Fixed bugs"},
+            {"type":"fixed","text":"Accepts external download request using scheme watercat://download?url=urlToDownload"}
+        ]
+    },{
+        "versionName":"1.0.5",
+        "versionCode":10,
+        "date":1551633070143,
+        "changes":[
+            {"type":"fixed","text":"Fixed crash while sharing files"},
+            {"type":"fixed","text":"Fixed crash when opening download dialog"},
+            {"type":"fixed","text":"Fixed crash when swiping histories"}
+        ]
+    }
+]

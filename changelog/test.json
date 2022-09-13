@@ -1,0 +1,20 @@
+[
+    {
+        "versionName":"2.1.0",
+        "versionCode":2147483641,
+        "date":1556177955474,
+        "changes":[
+            {"type":"feature","text":"Introducing new UI"},
+            {"type":"fixed","text":"Fixed minor bugs"},
+            {"type":"info","text":"Get 20% off for items purchased on April 24th, 2019"},
+            {"type":"other","text":"Fixed minor bugs"}
+        ]
+    },{
+        "versionName":"1.0.6",
+        "versionCode":2147483640,
+        "date":1553072781089,
+        "changes":[
+            {"type":"fixed","text":"Fixed bugs"}
+        ]
+    }
+]
